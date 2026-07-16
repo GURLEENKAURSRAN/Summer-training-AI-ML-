@@ -163,15 +163,15 @@ numbers[::2]     # Every second element
 
 I practiced:
 
-Create a list of 5 integers and print the first and last element.
-Create a list A = [10, 20, 30, 40, 50] and print the third element.
-Create a list of fruits and replace "Apple" with "Mango".
-Add "Python" at the end of a list using a list method.
-Insert 100 at index 2 in a list.
-Remove "Delhi" from a list of cities.
-Delete the element at index 3 using a list method.
-Find the length of a list without counting manually.
-Count how many times 5 appears in [1, 5, 2, 5, 3, 5].
+*Create a list of 5 integers and print the first and last element.
+*Create a list A = [10, 20, 30, 40, 50] and print the third element.
+*Create a list of fruits and replace "Apple" with "Mango".
+*Add "Python" at the end of a list using a list method.
+*Insert 100 at index 2 in a list.
+*Remove "Delhi" from a list of cities.
+*Delete the element at index 3 using a list method.
+*Find the length of a list without counting manually.
+*Count how many times 5 appears in [1, 5, 2, 5, 3, 5].
 
 ## Key Learnings
 
