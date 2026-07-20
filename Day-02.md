@@ -161,8 +161,6 @@ numbers[::2]     # Every second element
 
 ## Exercises
 
-I practiced:
-
 *Create a list of 5 integers and print the first and last element.
 *Create a list A = [10, 20, 30, 40, 50] and print the third element.
 *Create a list of fruits and replace "Apple" with "Mango".
@@ -181,9 +179,5 @@ I practiced:
 * Lists can store different data types and duplicate values.
 * Lists are one of the most important data structures in Python programming.
 
-## Challenges Faced
 
-* Difference between `append()` and `extend()`
-* Difference between `pop()` and `remove()`
-* Understanding slicing with negative indices and steps
 
