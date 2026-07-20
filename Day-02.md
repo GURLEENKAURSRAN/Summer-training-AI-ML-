@@ -1,6 +1,6 @@
 # Day 02 – Python Data Types: Lists
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GURLEENKAURSRAN/Summer-training-AI-ML-/blob/main/training-day2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GURLEENKAURSRAN/Summer-training-AI-ML-/blob/main/training-day2 (list).ipynb)
 
 ## Overview
 
