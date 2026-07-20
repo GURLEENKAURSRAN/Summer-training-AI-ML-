@@ -1,5 +1,7 @@
 # Day 02 – Python Data Types: Lists
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GURLEENKAURSRAN/Summer-training-AI-ML-/blob/main/training-day2.ipynb)
+
 ## Overview
 
 Today I learned about **Lists in Python**, one of the most commonly used data structures for storing multiple values in a single variable. Lists are flexible, dynamic, and allow different types of data to be stored together.
