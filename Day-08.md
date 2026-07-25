@@ -4,7 +4,6 @@
 
 Today I learned **Conditional Statements** in Python, which are used to make decisions in a program. They allow the program to execute different blocks of code depending on whether a condition is `True` or `False`.
 
----
 
 # 📘 What are Conditional Statements?
 
@@ -19,7 +18,6 @@ if condition:
 
 If the condition evaluates to `True`, the code inside the `if` block executes. Otherwise, it is skipped.
 
----
 
 # Types of Conditional Statements
 
@@ -42,7 +40,6 @@ if age >= 18:
 You are eligible to vote.
 ```
 
----
 
 ## 2. `if...else` Statement
 
@@ -68,8 +65,6 @@ else:
 Minor
 ```
 
----
-
 ## 3. `if...elif` Statement
 
 When there are multiple conditions to check, `elif` (else if) is used.
@@ -90,8 +85,6 @@ elif marks >= 75:
 ```
 Grade B
 ```
-
----
 
 ## 4. `if...elif...else` Statement
 
@@ -116,8 +109,6 @@ else:
 Grade C
 ```
 
----
-
 ## 5. Nested `if` Statement
 
 A nested `if` means placing one `if` statement inside another `if` statement.
@@ -138,8 +129,6 @@ if age >= 18:
 ```
 Entry Allowed
 ```
-
----
 
 # Operators Used in Conditional Statements
 
@@ -162,7 +151,6 @@ Entry Allowed
 | `or`     | At least one condition must be True |
 | `not`    | Reverses the result                 |
 
----
 
 # 💻 Programs Practiced
 
@@ -181,7 +169,6 @@ Entry Allowed
 * BMI Calculator
 * Attendance Checker
 
----
 
 Conditional statements are one of the most important programming concepts because they allow programs to make intelligent decisions. They form the foundation for building interactive applications, games, automation scripts, and problem-solving algorithms.
 
