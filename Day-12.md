@@ -1,6 +1,6 @@
 # Day-12 Daily Diary – Advanced Functions in Python
 
-[Open Google Colab Notebook](https://colab.research.google.com/drive/16t5U6Lu7V-PHg6BP94febf0PcAqvEm4-?usp=sharing)
+[Open Google Colab Notebook](https://colab.research.google.com/drive/16t5U6Lu7V-PHg6BP94febf0PcAqvEm4-?usp=sharing).
 
 ## Topic Covered
 
