@@ -1,5 +1,7 @@
 # 📅 Day-08 Conditional Statements 
 
+[Open Google Notebook](https://colab.research.google.com/drive/1iwmyPu2rUX9v1BirUUMKg80PgW5HINGZ?usp=sharing)
+
 ## 📖 Topic Covered
 
 Today I learned **Conditional Statements** in Python, which are used to make decisions in a program. They allow the program to execute different blocks of code depending on whether a condition is `True` or `False`.
