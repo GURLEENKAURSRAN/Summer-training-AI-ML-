@@ -1,7 +1,7 @@
 # Day 14 - 08 August 2026
 
 ## NumPy
-[Open in Google Colab]{https://colab.research.google.com/drive/1AOXIokkan36w15IH22vdwFlLCTtCHRrX?usp=sharing}
+[Open in Google Colab](https://colab.research.google.com/drive/1AOXIokkan36w15IH22vdwFlLCTtCHRrX?usp=sharing)
 
 ## Overview
 
