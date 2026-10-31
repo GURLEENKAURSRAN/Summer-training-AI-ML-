@@ -1,10 +1,5 @@
 # Day 17 – Introduction to Streamlit
 
-## Overview
-On Day 17, I learned about **Streamlit**, an open-source Python library used to create interactive web applications easily. It helps convert Python scripts into web apps without requiring HTML, CSS, or JavaScript.
-
-I explored its basic functions, display elements, widgets, data handling, and visualization features.
-
 ## Topics Covered
 
 ### 1. Introduction to Streamlit
@@ -240,7 +235,4 @@ st.error("Something went wrong!")
 11. What is the purpose of `st.sidebar()`?
 12. How can we divide an application into columns?
 
-## Conclusion
-Today, I learned how to use Streamlit to create simple and interactive web applications using Python. I explored different widgets, data display functions, file uploading, and visualization features. These concepts will help me develop interactive applications for Data Science and Machine Learning projects.
 
-**Google Colab / Practice Link:** [Add your Day 17 project or notebook link here]
